@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,1000&display=swap');
+
+/* Header */
+.header {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../assets/images/bg2.jpg');
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.nav-link {
+    color: rgba(250, 250, 250, 0.5) !important;
+}
+
+.nav-link:hover {
+    color: white !important;
+}
+
+.myName {
+    font-family: 'Nunito' sans-serif;
+    color: white;
+    font-weight: bold;
+    padding: 70px;
+}
+
+/* section one */
+/* Progress Bar */
+.progress-bar{
+    background-color: #42855B !important;
+}
+/* Button */
+.btn1{
+    background-color: #42855B !important;
+    color: white !important;
+    
+}
+.btn2{
+    background-color: #16213E !important;
+    color: white !important;
+}
+
+/* Section Two Services*/
+.divider{
+    width: 70px;
+    height: 8px;
+    background-color: black;
+    margin: 10px auto;
+}
+/* icons */
+.card i{
+    font-size: 30px;
+    color: #42855B;
+    margin: 10px;
+}
+/* Section Three contact */
+.contact_info{
+    font-family: sans-serif;
+}
+.icon{
+    color: #42855B;
+}
+/* Footer */
+.footer{
+    background-color: #EDEDED;
+}
+
+
+
+
+
+
+
+
